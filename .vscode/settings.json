@@ -1,0 +1,89 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "python06/alchemy/",
+            "color": "foldercolorizer.color_ff99ff",
+            "badge": "📁"
+        },
+        {
+            "folderPath": "python06/ft_circular_curse.py/",
+            "color": "foldercolorizer.color_ff99ff",
+            "badge": "📜"
+        },
+        {
+            "folderPath": "python06/ft_import_transmutation.py/",
+            "color": "foldercolorizer.color_ff99ff",
+            "badge": "📜"
+        },
+        {
+            "folderPath": "python06/ft_pathway_debate.py/",
+            "color": "foldercolorizer.color_ff99ff",
+            "badge": "📜"
+        },
+        {
+            "folderPath": "python06/ft_sacred_scroll.py/",
+            "color": "foldercolorizer.color_ff99ff",
+            "badge": "📜"
+        },
+        {
+            "folderPath": "python06/alchemy/grimoire/",
+            "color": "foldercolorizer.color_00cc33",
+            "badge": "📁"
+        },
+        {
+            "folderPath": "python06/alchemy/transmutation/",
+            "color": "foldercolorizer.color_00cc33",
+            "badge": "📁"
+        },
+        {
+            "folderPath": "python06/alchemy/__init__.py/",
+            "color": "foldercolorizer.color_00cc33",
+            "badge": "📜"
+        },
+        {
+            "folderPath": "python06/alchemy/elements.py/",
+            "color": "foldercolorizer.color_00cc33",
+            "badge": "📜"
+        },
+        {
+            "folderPath": "python06/alchemy/ft_sacred_scroll.py/",
+            "color": "foldercolorizer.color_00cc33",
+            "badge": "📜"
+        },
+        {
+            "folderPath": "python06/alchemy/transmutation/__init__.py/",
+            "color": "foldercolorizer.color_00ccff",
+            "badge": "📜"
+        },
+        {
+            "folderPath": "python06/alchemy/transmutation/advanced.py/",
+            "color": "foldercolorizer.color_00ccff",
+            "badge": "📜"
+        },
+        {
+            "folderPath": "python06/alchemy/transmutation/basic.py/",
+            "color": "foldercolorizer.color_00ccff",
+            "badge": "📜"
+        },
+        {
+            "folderPath": "python06/alchemy/grimoire/__init__.py/",
+            "color": "foldercolorizer.color_00ccff",
+            "badge": "📜"
+        },
+        {
+            "folderPath": "python06/alchemy/grimoire/spellbook.py/",
+            "color": "foldercolorizer.color_00ccff",
+            "badge": "📜"
+        },
+        {
+            "folderPath": "python06/alchemy/grimoire/validator.py/",
+            "color": "foldercolorizer.color_00ccff",
+            "badge": "📜"
+        },
+        {
+            "folderPath": "python06/alchemy/potions.py/",
+            "badge": "📜",
+            "color": "foldercolorizer.color_00cc00"
+        }
+    ]
+}
